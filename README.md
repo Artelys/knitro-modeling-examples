@@ -18,6 +18,13 @@ Examples:
 <img src="https://github.com/Artelys/knitro-modeling-examples/blob/main/hydro_unit_commitment_pyomo/discharge.png" align=center height="128">
 </p>
 
+* [K-means clustering (Pyomo)](k_means_clustering/k_means_clustering.ipynb)
+<p align="center">
+<img src="https://github.com/Artelys/knitro-modeling-examples/blob/main/k_means_clustering/data.png" align=center height="128"> &nbsp;
+→
+<img src="https://github.com/Artelys/knitro-modeling-examples/blob/main/k_means_clustering/clusterdata.png" align=center height="128">
+</p>
+
 * [Single row facility layout problem (Pyomo)](single_row_facility_layout/single_row_facility_layout.ipynb)
 <p align="center">
 <img src="https://github.com/Artelys/knitro-modeling-examples/blob/main/single_row_facility_layout/solution_random.png" align=center height="128"> &nbsp;

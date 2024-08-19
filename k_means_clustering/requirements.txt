@@ -1,0 +1,6 @@
+pandas
+numpy>=1.17.3
+pyomo
+plotly
+kaleido
+scikit-learn
