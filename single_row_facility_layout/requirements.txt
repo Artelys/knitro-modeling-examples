@@ -1,0 +1,3 @@
+pyomo
+plotly
+kaleido
