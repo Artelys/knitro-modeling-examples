@@ -11,8 +11,10 @@ Examples:
 <img src="https://github.com/Artelys/knitro-modeling-examples/blob/main/largest_diameter_python/shape_with_diameter.png" align=center height="128">
 </p>
 
-* [Hydro unit commitment problem (Pyomo)](hydro_unit_commitment_pyomo/hydro_unit_commitment_pyomo.ipynb)
-* [Hydro unit commitment problem (JuMP)](hydro_unit_commitment_jump/hydro_unit_commitment_jump.ipynb)
+* Hydro unit commitment problem:
+  * [Pyomo](hydro_unit_commitment_pyomo/hydro_unit_commitment_pyomo.ipynb)
+  * [amplpy ](hydro_unit_commitment_amplpy/hydro_unit_commitment_amplpy.ipynb)
+  * [JuMP](hydro_unit_commitment_jump/hydro_unit_commitment_jump.ipynb)
 <p align="center">
 <img src="https://github.com/Artelys/knitro-modeling-examples/blob/main/hydro_unit_commitment_pyomo/schema_hydro_leg.png" align=center height="128"> &nbsp;
 <img src="https://github.com/Artelys/knitro-modeling-examples/blob/main/hydro_unit_commitment_pyomo/discharge.png" align=center height="128">
