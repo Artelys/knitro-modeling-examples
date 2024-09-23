@@ -1,0 +1,7 @@
+pandas
+numpy>=1.17.3
+amplpy
+plotly
+kaleido
+scikit-learn
+nbformat
