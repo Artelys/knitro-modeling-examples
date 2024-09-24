@@ -3,8 +3,10 @@
 The goal of this repository is to show nonlinear programming models for some applications and their resolution with the nonlinear programming solver [Artelys Knitro](https://www.artelys.com/solvers/knitro/).
 
 Examples:
-* [Largest diameter (Python)](largest_diameter_python/largest_diameter_python.ipynb): a toy problem with a black-box function
-* [Largest diameter (Julia)](largest_diameter_julia/largest_diameter_julia.ipynb)
+
+* Largest diameter: a toy problem with a black-box function
+  * [Python](largest_diameter_python/largest_diameter_python.ipynb)
+  * [Julia](largest_diameter_julia/largest_diameter_julia.ipynb)
 <p align="center">
 <img src="https://github.com/Artelys/knitro-modeling-examples/blob/main/largest_diameter_python/shape.png" align=center height="128"> &nbsp;
 →
@@ -20,7 +22,9 @@ Examples:
 <img src="https://github.com/Artelys/knitro-modeling-examples/blob/main/hydro_unit_commitment_pyomo/discharge.png" align=center height="128">
 </p>
 
-* [K-means clustering (Pyomo)](k_means_clustering/k_means_clustering.ipynb)
+* K-means clustering
+  * [Pyomo](k_means_clustering/k_means_clustering.ipynb)
+  * [amplpy](k_means_clustering_amplpy/k_means_clustering_amplpy.ipynb)
 <p align="center">
 <img src="https://github.com/Artelys/knitro-modeling-examples/blob/main/k_means_clustering/data.png" align=center height="128"> &nbsp;
 →
