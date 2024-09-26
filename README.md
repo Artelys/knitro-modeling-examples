@@ -22,6 +22,11 @@ Examples:
 <img src="https://github.com/Artelys/knitro-modeling-examples/blob/main/hydro_unit_commitment_pyomo/discharge.png" align=center height="128">
 </p>
 
+* [Portfolio optimization (Pyomo)](portfolio_optimization/portfolio_optimization.ipynb)
+<p align="center">
+<img src="https://github.com/Artelys/knitro-modeling-examples/blob/feature-portfolio-optimization/portfolio_optimization.png" align=center height="128"> &nbsp;
+</p>
+
 * K-means clustering
   * [Pyomo](k_means_clustering/k_means_clustering.ipynb)
   * [amplpy](k_means_clustering_amplpy/k_means_clustering_amplpy.ipynb)
