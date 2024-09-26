@@ -24,7 +24,7 @@ Examples:
 
 * [Portfolio optimization (Pyomo)](portfolio_optimization/portfolio_optimization.ipynb)
 <p align="center">
-<img src="https://github.com/Artelys/knitro-modeling-examples/blob/feature-portfolio-optimization/portfolio_optimization.png" align=center height="128"> &nbsp;
+<img src="https://github.com/Artelys/knitro-modeling-examples/blob/feature/portfolio-optimization/portfolio_optimization/portfolio_optimization.png" align=center height="128"> &nbsp;
 </p>
 
 * K-means clustering
