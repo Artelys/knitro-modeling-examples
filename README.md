@@ -41,6 +41,15 @@ A toy problem with a black-box function, and which illustrates non-convexity.
 <img src="https://github.com/Artelys/knitro-modeling-examples/blob/main/k_means_clustering/clusterdata.png" align=center height="128">
 </p>
 
+## Wastewater treatment network problem
+
+* [Pyomo](wastewater_treatment_network_pyomo/wastewater_treatment_network.ipynb)
+<p align="center">
+<img src="https://github.com/Artelys/knitro-modeling-examples/blob/main/wastewater_treatment_network_pyomo/real_instance.png" align=center height="128"> &nbsp;
+→
+<img src="https://github.com/Artelys/knitro-modeling-examples/blob/main/wastewater_treatment_network_pyomo/solution.png" align=center height="128">
+</p>
+
 ## Single row facility layout problem
 
 * [Pyomo](single_row_facility_layout/single_row_facility_layout.ipynb)
