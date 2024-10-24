@@ -1,0 +1,4 @@
+pyomo
+plotly
+numpy>=1.17.3
+kaleido
