@@ -50,6 +50,15 @@ A toy problem with a black-box function, and which illustrates non-convexity.
 <img src="https://github.com/Artelys/knitro-modeling-examples/blob/main/wastewater_treatment_network_pyomo/solution.png" align=center height="128">
 </p>
 
+## Pivot irrigators problem
+
+* [Pyomo](pivot_irrigators/pivot_irrigators.ipynb)
+<p align="center">
+<img src="https://github.com/Artelys/knitro-modeling-examples/blob/main/pivot_irrigators/simple_grid_pattern_8_machines.png" align=center height="128"> &nbsp;
+→
+<img src="https://github.com/Artelys/knitro-modeling-examples/blob/main/pivot_irrigators/optimal_layout_8_machines.png" align=center height="128">
+</p>
+
 ## Single row facility layout problem
 
 * [Pyomo](single_row_facility_layout/single_row_facility_layout.ipynb)
