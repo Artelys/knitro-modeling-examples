@@ -24,6 +24,15 @@ A toy problem with a black-box function, and which illustrates non-convexity.
 <img src="https://github.com/Artelys/knitro-modeling-examples/blob/main/hydro_unit_commitment_pyomo/discharge.png" align=center height="128">
 </p>
 
+## Aircraft deconfliction
+
+* [Pyomo](aircraft_deconfliction/aircraft_deconfliction.ipynb)
+<p align="center">
+<img src="https://github.com/Artelys/knitro-modeling-examples/blob/main/aircraft_deconfliction/air_traffic_conflicts.gif" align=center height="384"> &nbsp;
+→
+<img src="https://github.com/Artelys/knitro-modeling-examples/blob/main/aircraft_deconfliction/air_traffic_deconflicted.gif" align=center height="384">
+</p>
+
 ## Portfolio optimization
 
 * [Pyomo](portfolio_optimization/portfolio_optimization.ipynb)
