@@ -1,5 +1,11 @@
 # Knitro modeling examples
 
+> [!IMPORTANT]
+> The examples have moved to the official Artelys Knitro documentation.
+> They are now available at:
+>
+> https://www.artelys.com/app/docs/knitro-examples
+
 The goal of this repository is to show nonlinear programming models for some applications and their resolution with the nonlinear programming solver [Artelys Knitro](https://www.artelys.com/solvers/knitro/).
 
 ## Largest diameter
